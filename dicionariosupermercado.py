@@ -9,6 +9,7 @@ print("[0]. Salir")
 print("!!!******************************************************************************!!!")
 
 opcion=1
+
 productos=[] #dicionario vacio
 while(opcion !=0):
         opcion=int(input("Digita la opcion segun menu indicado: "))

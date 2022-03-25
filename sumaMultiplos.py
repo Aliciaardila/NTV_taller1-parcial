@@ -12,9 +12,9 @@ for i in range(tamano):
         numeros.append(numero)
         if (numero%2==0):
             multiplo2+=1
-            print("es multiplo de 2")
+            print("El numero es  multiplo de 2")
         elif ( numero%3==0 ):
-            print("es multiplo de 3")
+            print("El numero es multiplo de 3")
             multiplo3+=1
         else:
             print(" es multiplo de otro numero")
